@@ -58,4 +58,9 @@ bot-shared/
 
 ---
 
+## 🔗 相關文件
+- [Claude Code 開發工作流程](../specs/claude-code-workflow.md)
+
+---
+
 *記錄者: 小八 🐱*
